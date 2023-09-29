@@ -13,7 +13,7 @@ Effortlessly scrape and download images from web pages with this versatile Pytho
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/subi26/Async-Web-Scrapping-With-BS4-Asyncio
 
 ```
 
