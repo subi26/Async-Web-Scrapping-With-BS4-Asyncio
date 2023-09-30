@@ -75,7 +75,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-- Thanks to [Beautiful](https://www.crummy.com/software/BeautifulSoup/) Soup for the HTML parsing.
+- Thanks to [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for the HTML parsing.
 - Inspired by web scraping tutorials and examples from the Python community.
 - Feel free to contribute, report issues, or suggest improvements to this project!
 
