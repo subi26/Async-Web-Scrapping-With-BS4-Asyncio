@@ -52,6 +52,17 @@ scraper.scrape_images()
 
 ```
 
+## Lazy Version
+
+If you are not familier with OOPS you can use this functional style lazy version
+
+```bash
+python lazy_version.py
+```
+
+It comes with datetime range filters
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
